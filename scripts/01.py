@@ -1,1 +1,1 @@
-print('Primeira ')
+print('Primeira')
